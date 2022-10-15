@@ -180,3 +180,9 @@ Keys
 `KY7PN-VR6RX-83W6Y-6DDYQ-T6R4W`
 ### Ticket
 `Microsoft.Windows.203.X22-53847_8wekyb3d8bbwe.xml`
+
+## IoTEnterpriseSK
+### Key
+`J7NJW-V6KBM-CC8RW-Y29Y4-HQ2MJ`
+### Ticket
+`Microsoft.Windows.205.X23-15027_8wekyb3d8bbwe.xml`
