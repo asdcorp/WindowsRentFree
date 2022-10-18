@@ -1,6 +1,6 @@
 Windows Rent Free
 =================
-Make Windows 10/11 live rent free on your computer.
+Let Windows 10/11 live rent free on your computer.
 
 Prepartion
 ----------
