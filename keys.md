@@ -186,3 +186,6 @@ Keys
 `J7NJW-V6KBM-CC8RW-Y29Y4-HQ2MJ`
 ### Ticket
 `Microsoft.Windows.205.X23-15027_8wekyb3d8bbwe.xml`
+
+## KMS38
+KMS38 activation is not recommended and should be avoided. In case you really need it, you may use the `KMS.xml` ticket with any of the publicly available [KMS setup keys](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys).
